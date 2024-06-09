@@ -13,13 +13,16 @@ HALElifeExpectancyAtBirth.csv: Healthy life expectancy at birth by country.
 WHOregionLifeExpectancAtBirth.csv: Life expectancy at birth by WHO region.
 HAleWHOregionLifeExpectancy.csv: Healthy life expectancy at birth by WHO region.
 %HaleInLifeExpectancy.csv: Percentage of HALE in life expectancy.
+
 Maternal Mortality
 MotherMortalityRatio.csv: Maternal mortality ratio per 100,000 live births.
 AttendingBySkilledPersonal.csv: Births attended by skilled health personnel (%).
+
 Neonatal and Child Mortality
 infantMortalityRate.csv: Infant mortality rate per 1,000 live births.
 neonatalMortalityRate.csv: Neonatal mortality rate per 1,000 live births.
 under5MortalityRate.csv: Under-5 mortality rate per 1,000 live births.
+
 Infectious Diseases
 incedenceOfMalaria.csv: Malaria incidence per 1,000 population at risk.
 incedenceOfTuberculosis.csv: Tuberculosis incidence per 100,000 population.
@@ -29,39 +32,51 @@ newHivInfections.csv: New HIV infections per 1,000 uninfected population.
 Non-communicable Diseases and Mental Health
 30-70cancerChdEtc.csv: Probability of dying between age 30 and exact age 70 from cardiovascular disease, cancer, diabetes, or chronic respiratory disease.
 hamSuicideRates.csv: Crude suicide rates per 100,000 population.
+
 Substance Abuse
 AlcoholSubstanceAbuse.csv: Total (recorded + unrecorded) alcohol consumption per capita (15+).
+
 Road Traffic Injuries
 roadTrafficDeaths.csv: Estimated road traffic death rate per 100,000 population.
+
 Sexual and Reproductive Health
 reproduktifAgeWomen.csv: Proportion of married or in-union women of reproductive age whose family planning needs are met with modern methods (%).
 adolesBirthRate.csv: Adolescent birth rate per 1,000 women aged 15-19.
+
 Universal Health Coverage
 uhcCoverage.csv: UHC service coverage index (SCI).
 dataAvailibilityForUhc.csv: Data availability for UHC service coverage index (%).
 nüfus10%SDG3.8.2.csv: Proportion of population with household expenditures on health greater than 10% of total household expenditure or income (%).
 nüfus25%SDG3.8.2.csv: Proportion of population with household expenditures on health greater than 25% of total household expenditure or income (%).
+
 Environmental Pollution
 airPollutionDeathRate.csv: Death rate attributable to ambient and household air pollution per 100,000 population.
 mortaliteRateUnsafeWash.csv: Mortality rate attributable to unsafe WASH services per 100,000 population.
 mortaliteRatePoisoning.csv: Mortality rate attributable to unintentional poisoning per 100,000 population.
+
 Tobacco Control
 tütünAge15.csv: Prevalence of tobacco use among persons aged 15 and older.
+
 Health Workforce
 MedicalDoctors.csv: Medical doctors per 10,000 population.
 nurseAndMidwife.csv: Nursing and midwifery personnel per 10,000 population.
 Dentists.csv: Dentists per 10,000 population.
 Pharmacists.csv: Pharmacists per 10,000 population.
+
 Violence Against Women
 elimineViolenceAgainstWomen.csv: Proportion of ever-partnered women and girls aged 15-49 subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months (%).
+
 Drinking Water
 basicDrinkingWaterServices.csv: Population using at least basic drinking water services (%).
+
 Sanitation and Hygiene
 atLeastBasicSanitizationServices.csv: Population using at least basic sanitation services (%).
 secureSanitization.csv: Population using safely managed sanitation services (%).
 basicHandWashing.csv: Population with basic handwashing facilities on premises (%).
+
 Clean Household Energy
 cleanFuelAndTech.csv: Population primarily relying on clean fuels and technologies (%).
+
 Installation
 To run the analysis and forecasting, you need to install the following Python packages:
 
