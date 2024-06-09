@@ -1,5 +1,4 @@
 Health Statistics Analysis and Forecasting
-
 Introduction
 This project aims to analyze and forecast health statistics using a dataset containing various health indicators from the World Health Organization (WHO). The dataset includes information on life expectancy, maternal mortality, child mortality, infectious and non-communicable diseases, substance abuse, road traffic injuries, sexual and reproductive health, universal health coverage, environmental pollution, tobacco control, health workforce, violence against women, drinking water, sanitation, hygiene, and clean household energy.
 
